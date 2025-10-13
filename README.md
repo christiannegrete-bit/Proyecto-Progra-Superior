@@ -9,7 +9,7 @@ Fecha de entrega: 2025-10-13
 
 ---
 
-1. Datos Generales del Proyecto
+## 1. Datos Generales del Proyecto
 
 Campo	Descripción
 
@@ -29,7 +29,7 @@ Si usas IA, explica brevemente cómo y en qué etapa contribuye:
 
 ---
 
-2. Descripción del Proyecto
+## 2. Descripción del Proyecto
 
 Resumen breve
 
@@ -50,7 +50,7 @@ Objetivos principales
 
 ---
 
-3. Diseño Técnico y Aplicación de POO
+## 3. Diseño Técnico y Aplicación de POO
 
 Principios de POO aplicados
 
@@ -99,7 +99,7 @@ Persistencia de datos
 
 ---
 
-4. Funcionalidades Principales
+## 4. Funcionalidades Principales
 
 Nº	Nombre de la funcionalidad	Descripción breve	Estado actual
 
@@ -117,7 +117,7 @@ Nº	Nombre de la funcionalidad	Descripción breve	Estado actual
 
 ---
 
-5. Compromiso del Estudiante
+## 5. Compromiso del Estudiante
 
 Declaro que:
 
@@ -135,7 +135,7 @@ Firma (nombre completo): __________________________
 
 ---
 
-6. Validación del Docente (completa el profesor)
+## 6. Validación del Docente (completa el profesor)
 
 Campo	Detalle
 
