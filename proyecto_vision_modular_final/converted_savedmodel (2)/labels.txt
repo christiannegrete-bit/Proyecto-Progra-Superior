@@ -1,0 +1,5 @@
+0 Modulo Rele 2
+1 7404
+2 Diodo Zener
+3 7805
+4 No hay nada
