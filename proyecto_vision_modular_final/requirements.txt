@@ -1,0 +1,9 @@
+numpy
+opencv-python
+tensorflow
+pandas
+Pillow
+openpyxl
+matplotlib
+pytest
+
